@@ -1,0 +1,11 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+/Assets/AssetStoreTools*
+*.user
+*.pidb.meta
+sysinfo.txt
+*.apk
+*.unitypackage
